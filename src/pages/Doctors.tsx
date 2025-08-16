@@ -11,7 +11,7 @@ import { Link } from "react-router-dom";
 const mockDoctors = [
   {
     id: "1",
-    name: "Dr. Priya Sharma",
+    name: "Dr. Anushka Sharma",
     specialization: "Panchakarma",
     experience: 15,
     rating: 4.8,
@@ -25,7 +25,7 @@ const mockDoctors = [
   },
   {
     id: "2", 
-    name: "Dr. Rajesh Kumar",
+    name: "Dr. Rajesh Roy",
     specialization: "Kayachikitsa",
     experience: 22,
     rating: 4.9,
@@ -39,7 +39,7 @@ const mockDoctors = [
   },
   {
     id: "3",
-    name: "Dr. Meera Nair",
+    name: "Dr. Meena Nair",
     specialization: "Shalakya Tantra",
     experience: 18,
     rating: 4.7,
@@ -53,7 +53,7 @@ const mockDoctors = [
   },
   {
     id: "4",
-    name: "Dr. Anil Gupta",
+    name: "Dr. Ankit Kumar",
     specialization: "Shalya Tantra",
     experience: 10,
     rating: 4.5,
@@ -67,7 +67,7 @@ const mockDoctors = [
   },
   {
     id: "5",
-    name: "Dr. Sita Devi",
+    name: "Dr. Priya Sharma",
     specialization: "Kaumara Bhritya",
     experience: 12,
     rating: 4.6,
