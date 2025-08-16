@@ -260,7 +260,7 @@ const BookingFlow = () => {
   const renderOtpStep = () => (
     <div className="max-w-md mx-auto space-y-6">
       <div className="text-center">
-        <h2 className="text-2xl font-bold mb-2">Verify OTP</h2>
+        <h2 className="text-2xl font-bold mb-2">Verify OTP write any OTP(for ex: 123456)</h2>
         <p className="text-muted-foreground">
           We've sent a 6-digit code to your registered mobile number
         </p>
