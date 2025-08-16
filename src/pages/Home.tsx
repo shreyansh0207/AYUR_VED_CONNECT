@@ -48,7 +48,7 @@ const Home = () => {
           <div className="mx-auto max-w-4xl text-center text-white">
             <h1 className="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
               Authentic Ayurvedic Care,{" "}
-              <span className="text-yellow-200">Anytime, Anywhere</span>
+              <span className="text-yellow-200">Anywhere , Anytime</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-white/90 max-w-2xl mx-auto">
               Connect with verified Ayurvedic doctors for personalized consultations. 
